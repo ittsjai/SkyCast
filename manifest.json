@@ -1,0 +1,17 @@
+{
+  "name": "SkyCast",
+  "short_name": "SkyCast",
+  "description": "Your personalized weather forecast at your fingertips.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "assests/01n.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "manifest_version": 2
+}
