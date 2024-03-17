@@ -123,7 +123,7 @@ function dislpayWeatherInfo(data) {
   windData.appendChild(windDatah2);
   tempDisplay.textContent = `${(temp - 273.15).toFixed(1)}°C`;
   descDisplay.textContent = description;
-  img.src = `/assests/${icon}.png`;
+  img.src = `assests/${icon}.png`;
   humDatah1.textContent = `${humidity}%`;
   humidityImg.src = `assests/humidity.png`;
   windDatah1.textContent = `${speed}m/s`;
