@@ -24,7 +24,7 @@ form.weatherForm {
 input.cityInput {
   padding: 10px;
   border-radius: 10px;
-  border: 2px solid #000;
+  border: 2px solid #ff5722;
   margin: 10px;
 }
 
@@ -32,7 +32,7 @@ button {
   padding: 10px;
   border-radius: 10px;
   border: none;
-  background-color: #2e7d32;
+  background-color: #ff5722;
   color: #fff;
 }
 
