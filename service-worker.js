@@ -3,7 +3,7 @@ const urlsToCache = [
   "https://ittsjai.github.io/SkyCast/index.html",
   "https://ittsjai.github.io/SkyCast/style.css",
   "https://ittsjai.github.io/SkyCast/script.js",
-  "https://ittsjai.github.io/SkyCast/assests/01n.png",
+  "https://ittsjai.github.io/SkyCast/assests/01d.png",
 ];
 self.addEventListener("install", function (event) {
   event.waitUntil(
