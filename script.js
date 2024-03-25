@@ -71,8 +71,6 @@ function changeBackgroundColor(weatherId) {
   }
   body.style.backgroundImage = gradient;
   body.style.color = color;
-  body.style.backgroundRepeat = "no-repeat";
-  body.style.backgroundAttachment = "fixed";
 }
 
 function dislpayWeatherInfo(data) {
